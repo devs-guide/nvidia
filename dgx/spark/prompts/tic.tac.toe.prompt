@@ -1,0 +1,23 @@
+Act as an expert AppleScript developer. Write a complete, fully functional AppleScript that plays a basic game of Tic-Tac-Toe with the user. 
+
+Constraints & Requirements:
+1. Pure AppleScript Only: Do not rely on any external applications, terminal commands, or GUI scripting. 
+2. Dialog-Box Interface: The entire game interface must be driven exclusively by native AppleScript display dialog (and optionally choose from list) commands.
+3. Board Rendering: Visually represent the 3x3 grid within the text of the dialog box (e.g., using ASCII art, dashes, and pipes to show X, O, and empty slots numbered 1-9).
+4. User Interaction: Prompt the user to input their move by typing the number of the available slot they wish to play. Handle invalid inputs (e.g., choosing an already taken spot or a letter) gracefully.
+5. Game Logic: Include a continuous game loop that updates the board, includes a basic automated computer opponent (or alternatively, a 2-player pass-and-play system), and checks for win, loss, or draw conditions after every turn.
+6. Output: Return ONLY the properly formatted AppleScript code inside a markdown code block, ready to be compiled and run in Script Editor.
+
+
+
+----
+
+Act as an expert AppleScript developer. Write a complete, fully functional AppleScript that plays a basic game of Tic-Tac-Toe with the user. 
+
+Constraints & Requirements:
+1. Pure AppleScript Only: Do not rely on any external applications, terminal commands, or GUI scripting. 
+2. Dialog-Box Interface: The entire game interface must be driven exclusively by native AppleScript `display dialog` (and optionally `choose from list`) commands.
+3. Board Rendering: Visually represent the 3x3 grid within the text of the dialog box (e.g., using ASCII art, dashes, and pipes to show X, O, and empty slots numbered 1-9).
+4. User Interaction: Prompt the user to input their move by typing the number of the available slot they wish to play. Handle invalid inputs (e.g., choosing an already taken spot or a letter) gracefully.
+5. Game Logic: Include a continuous game loop that updates the board, includes a basic automated computer opponent (or alternatively, a 2-player pass-and-play system), and checks for win, loss, or draw conditions after every turn.
+6. Output: Return ONLY the properly formatted AppleScript code inside a markdown code block, ready to be compiled and run in Script Editor.

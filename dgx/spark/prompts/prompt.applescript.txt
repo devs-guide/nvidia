@@ -1,0 +1,1 @@
+given the `applescript` language for Apple macOS, return a code-block that creates a dialog prompt accepts a number and multiplies it by 5.
