@@ -1,4 +1,4 @@
-# DEVSGUIDE.TO: NVIDIA
+# [devs.guide/to/nvidia](devs.guide/to/nvidia/)
 > A Devs Guide to NVIDIA-focused documentation.
 
 ## __Repository Structure:__
@@ -8,10 +8,10 @@
     - [`nvidia/dgx/spark/`](dgx/spark/) — DGX Spark-specific documentation
 
 ## __URL Paths:__
-- [`devsguide.to/nvidia/`](https://devsguide.to/nvidia/)
-- [`devsguide.to/nvidia/virtualization/docker/`](https://devsguide.to/nvidia/virtualization/docker/)
-- [`devsguide.to/nvidia/models/formats/nvfp4/`](https://devsguide.to/nvidia/models/formats/nvfp4/)
-- [`devsguide.to/nvidia/dgx/spark/`](https://devsguide.to/nvidia/dgx/spark/)
+- devs.guide/to/nvidia/
+- devs.guide/to/nvidia/virtualization/docker/
+- devs.guide/to/nvidia/models/formats/nvfp4/
+- devs.guide/to/nvidia/dgx/spark/
 
 ## Table of Contents
 1. [Overview](#overview)
