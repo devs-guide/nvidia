@@ -8,10 +8,10 @@
     - [`nvidia/dgx/spark/`](dgx/spark/) — DGX Spark-specific documentation
 
 ## __URL Paths:__
-- devs.guide/to/nvidia/
-- devs.guide/to/nvidia/virtualization/docker/
-- devs.guide/to/nvidia/models/formats/nvfp4/
-- devs.guide/to/nvidia/dgx/spark/
+- [devs.guide/to/nvidia/](./)
+- [devs.guide/to/nvidia/virtualization/docker/](virtualization/docker/)
+- [devs.guide/to/nvidia/models/formats/nvfp4/](models/formats/nvfp4/)
+- [devs.guide/to/nvidia/dgx/spark/](dgx/spark/)
 
 ## Table of Contents
 1. [Overview](#overview)

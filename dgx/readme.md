@@ -6,8 +6,8 @@
   - [`dgx/spark/`](spark/) — DGX Spark setup, NVFP4 workflows, and operations
 
 ## __URL Paths:__
-- devs.guide/to/nvidia/dgx/
-- devs.guide/to/nvidia/dgx/spark/
+- [devs.guide/to/nvidia/dgx/](./)
+- [devs.guide/to/nvidia/dgx/spark/](spark/)
 
 ## Table of Contents
 1. [Overview](#overview)
