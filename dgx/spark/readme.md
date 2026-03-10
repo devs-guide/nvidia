@@ -9,6 +9,7 @@
 - [`comfyui/`](comfyui/) — ComfyUI setup
 - [`prompts/`](prompts/) — prompts, demos, AppleScripts
 - [`logs/`](logs/) — raw logs and metrics helper
+- [`multi/`](multi/) — dual-DGX pairing for `<SPARK_ONE>` and `<SPARK_TWO>`
 - [`archive/`](archive/) — scratch/old snapshots pending curation
 
 ## __URL Paths:__
@@ -18,6 +19,7 @@
 1. [Overview](#overview)
 2. [Guides](#guides)
    - [Setup & Ops](#setup--ops)
+   - [Multi-Host](#multi-host)
    - [NVFP4 Workflows](#nvfp4-workflows)
    - [Models & Downloads](#models--downloads)
    - [Tools & UI](#tools--ui)
@@ -35,6 +37,9 @@ Runbooks for bringing up DGX Spark, validating networking/storage, and iterating
 
 ### Setup & Ops
 - Baselines, debug notes, automation TODOs: [`ops/readme.md`](ops/readme.md)
+
+### Multi-Host
+- Dual-DGX pairing, networking, and NCCL validation: [`multi/readme.md`](multi/readme.md)
 
 ### NVFP4 Workflows
 - Runtime bring-up and configs: [`nvfp4/runtime.md`](nvfp4/runtime.md), [`nvfp4/load.model.md`](nvfp4/load.model.md)
